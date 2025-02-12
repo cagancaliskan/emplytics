@@ -1,0 +1,86 @@
+Example 1: Perfect Match for Software Engineer
+Candidate CV (Alice Smith):
+
+Full Name: Alice Smith
+Username: alice_smith
+Key Skills: Python, Django, REST, SQL, HTML, CSS
+Resume Text:
+I have over 5 years of experience in software engineering with a strong focus on web development. I have built scalable RESTful APIs using Python and Django and have extensive experience with SQL databases. My passion is to develop robust and maintainable software solutions.
+Job Posting (Software Engineer at TechCorp):
+
+Job ID: JOB1
+Company Name: TechCorp
+Job Title: Software Engineer
+Job Description: Develop scalable software solutions.
+Required Skills: Python, Django, REST
+Expected Outcome:
+Since Alice’s key skills (Python, Django, REST) match exactly with the required skills for the Software Engineer position, the matching percentage should be very high (close to 100%).
+
+
+
+
+
+
+Example 2: Perfect Match for Data Scientist
+Candidate CV (Bob Johnson):
+
+Full Name: Bob Johnson
+Username: bob_johnson
+Key Skills: Python, Machine Learning, Data Analysis, Pandas, Scikit-Learn
+Resume Text:
+I am a data scientist with expertise in Python programming, machine learning algorithms, and data analysis. I have hands-on experience building predictive models using libraries such as Pandas and Scikit-Learn and analyzing large datasets to extract valuable insights.
+Job Posting (Data Scientist at DataInc):
+
+Job ID: JOB2
+Company Name: DataInc
+Job Title: Data Scientist
+Job Description: Analyze data and build models.
+Required Skills: Python, Machine Learning, Data Analysis
+Expected Outcome:
+Bob’s skills align perfectly with the Data Scientist role, so his matching percentage should also be very high.
+
+
+
+
+
+
+Example 3: Partial Match Scenario
+Candidate CV (Charlie Brown):
+
+Full Name: Charlie Brown
+Username: charlie_brown
+Key Skills: Python, Java, C++, Machine Learning, REST
+Resume Text:
+I possess experience in multiple programming languages including Python, Java, and C++. I have worked on developing RESTful services and have a growing interest in machine learning. My background is diverse, although not all skills directly align with specialized roles.
+Job Posting (Data Scientist at DataInc):
+
+Job ID: JOB2
+Company Name: DataInc
+Job Title: Data Scientist
+Job Description: Analyze data and build models.
+Required Skills: Python, Machine Learning, Data Analysis
+Expected Outcome:
+While Charlie has some overlap (Python and Machine Learning), he lacks direct experience in “Data Analysis” and the domain-specific tools (like Pandas/Scikit-Learn) mentioned in the job requirements. His matching percentage should reflect a medium level of compatibility.
+
+
+
+
+
+
+Example 4: No (or Low) Match Scenario
+Candidate CV (Diana Prince):
+
+Full Name: Diana Prince
+Username: diana_prince
+Key Skills: Project Management, Communication, Agile, Scrum
+Resume Text:
+With over 10 years of experience in project management, I have successfully led numerous teams using agile and scrum methodologies. My expertise is in coordinating projects and ensuring that teams perform at their best through effective communication and leadership.
+Job Posting (Software Engineer at TechCorp):
+
+Job ID: JOB1
+Company Name: TechCorp
+Job Title: Software Engineer
+Job Description: Develop scalable software solutions.
+Required Skills: Python, Django, REST
+Expected Outcome:
+Since Diana’s expertise is in project management rather than software development, her key skills do not align with the technical requirements of the Software Engineer role. The system should compute a very low matching percentage for this pair.
