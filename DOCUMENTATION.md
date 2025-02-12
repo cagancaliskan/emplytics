@@ -141,6 +141,3 @@ project/
 ## 7. Conclusion
 
 The **AI-Powered Open Source Resume System** offers an intelligent and automated hiring solution. By integrating traditional resume parsing, AI-driven interview sessions, and advanced candidate-job matching techniques, the system provides a comprehensive and data-driven approach to recruitment.
-
-This documentation serves as a detailed technical and practical guide for understanding and explaining the project in professional or interview settings.
-
